@@ -1,19 +1,4 @@
-SOC-Analyst-Portfolio/
-│
-├── README.md
-├── labs/
-│   ├── wireshark/
-│   ├── incident-response/
-│   ├── splunk/
-│   └── malware-analysis/
-│
-├── notes/
-│   ├── security-fundamentals.md
-│   ├── soc-tools.md
-│   ├── threat-intel.md
-│   └── playbooks.md
-│
-└── projects/
-    ├── log-analysis/
-    ├── detection-rules/
-    └── case-studies/
+# SOC Analyst Portfolio 
+## About Me
+Hi! I'm an aspiring **Security Operations Center (SOC)** Analyst learning cybersecurity fundamentals, threat detection, and incident response.
+This repository showcases my hands-on labs, notes, projects, and learning progress.
