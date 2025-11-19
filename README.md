@@ -74,9 +74,8 @@ These will be added as I gain more experience:
 
 ## 📬 Contact
 **GitHub:** [XcyberJX]  
-**LinkedIn:** https://www.linkedin.com/in/justin-williams-5b0922291?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+**LinkedIn:** https://www.linkedin.com/in/justinwilliamsofficial
 **Email:** williamsjustin960@gmail.com
-
 
 ---
 
