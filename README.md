@@ -84,7 +84,7 @@ Includes:
 ---
 
 ## SIEM Log Analysis (Beginner Friendly)
-**Folder:** 1/siem-log-analysis`
+**Folder:** 1 `/siem-log-analysis`
 
 Example exercise include:
 - Detection failed logins
