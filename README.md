@@ -25,7 +25,6 @@ Simple labs to build a foundation:
 - Wireshark packet analysis  
 - File hashing & integrity checking  
 
-📌 *These labs will show hands-on skills recruiters love.*
 
 ---
 
@@ -37,7 +36,6 @@ Small scripts & utilities, such as:
 - IP/network info tool  
 - Regex log filter  
 
-📌 *The goal isn’t perfection — it’s learning.*
 
 ---
 
@@ -48,7 +46,6 @@ Small scripts & utilities, such as:
 - Incident response reports  
 - Fake phishing investigation  
 
-📌 *These will be short, realistic SOC tasks.*
 
 ---
 
@@ -62,7 +59,6 @@ Notes from Google Cybersecurity and Security+:
 - Identity & access management  
 - Risk management  
 
-📌 *This section shows your dedication & growing knowledge.*
 
 ---
 
@@ -77,9 +73,10 @@ These will be added as I gain more experience:
 ---
 
 ## 📬 Contact
-**GitHub:** [your-username]  
-**LinkedIn:** (optional)  
-**Email:** (optional)
+**GitHub:** [XcyberJX]  
+**LinkedIn:** https://www.linkedin.com/in/justin-williams-5b0922291?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+**Email:** williamsjustin960@gmail.com
+
 
 ---
 
