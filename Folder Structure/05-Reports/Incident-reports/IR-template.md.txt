@@ -1,4 +1,4 @@
-# 🛡️ Incident Response Report  
+# Incident Response Report  
 **Report ID:** IR-###  
 **Date:**  
 **Severity:** Low / Medium / High / Critical  
@@ -87,3 +87,4 @@ Explain how the incident started, what caused it, and contributing factors.
 
 **Prepared By:**  
 **Approved By:**  
+
