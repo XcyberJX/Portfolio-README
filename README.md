@@ -1,82 +1,105 @@
-# 🛡️ Cybersecurity Portfolio
-
-Welcome to my cybersecurity portfolio!  
-I’m currently completing the **Google Cybersecurity Professional Certificate** and studying for **CompTIA Security+**.  
-This repository will document my journey, projects, labs, and hands-on skills as I build experience in cybersecurity.
+# SOC Analyst Portfolio 
+Hi! I'm an aspiring **Security Operations Center (SOC)** Analyst learning cybersecurity fundamentals, threat detection, and incident response. This repository showcases my hands-on labs, notes, projects, and learning progress.
 
 ---
 
-## 🔐 About Me
-- 🎓 Google Cybersecurity Professional Certificate graduate  
-- 📘 Studying for CompTIA Security+ (SY0-701)  
-- 🖥️ Beginner in Python, Linux, and cybersecurity fundamentals  
-- 🎯 Goal: Blue Team / SOC Analyst / Security Analyst
+# About Me
+I'm an aspiring SOC Analyst / Blue Team professional passionate about cybersecurity, threat detection, and digital defense.
+This portfolio highlights the practical skills I am developing across:
+- Log analysis
+- SIEM monitoring (Splunk, Elastic, Wazuh)
+- Incident response
+- Network traffic analysis
+- Threat Intelligence
+- Detection engineering
+- SOC playbooks and documantation
 
 ---
 
-## 📁 Repository Structure
+# Repository Structure
+00-resources/      → Cheat sheets, learning roadmap, tool references  
+01-notes/          → Notes on SOC fundamentals, threat intel, forensics  
+02-labs/           → Hands-on exercises (Wireshark, logging, SIEM, IR, malware)  
+03-projects/       → Detection rules, threat hunts, case studies, scripts  
+04-playbooks/      → MITRE-mapped SOC playbooks  
+05-reports/        → Incident reports, SOC daily summaries, vulnerability reports
 
-### **1. 🧪 Beginner Labs (Coming Soon)**
-Simple labs to build a foundation:
-- Linux command line exercises  
-- Basic Bash scripting  
-- Python security scripts  
-- Windows security labs  
-- Wireshark packet analysis  
-- File hashing & integrity checking  
-
+Each folder contains detailed documentation, examples, and real-world scenarios reflecting the skills needed for a modem SOC environment.
 
 ---
 
-### **2. 🛠️ Tools I Build (Coming Soon)**
-Small scripts & utilities, such as:
-- Log analyzer (Python)  
-- Password strength checker  
-- Simple port scanner  
-- IP/network info tool  
-- Regex log filter  
+# Highlights of This Portfolio
+## Log Analysis
+- Investigation of failed logins, Powershell abuse, persistence attempts
+- Windows Event Logs and Sysmon analysis
+- Linux and network log review
 
+## Network Traffic Analysis
+- Wireshark PCAP investigations
+- DNS tunneling detection
+- Malicious HTTP traffic reveiew
 
----
+## SIEM Work
+- Splunk queries, dashboards, correlation, rules
+- Wazuh alert analysis
+- Elastic detection rules
 
-### **3. 🛡️ SOC Analyst Practice (Coming Soon)**
-- SIEM (Splunk / Elastic) practice  
-- Detection rules  
-- MITRE ATT&CK mapping  
-- Incident response reports  
-- Fake phishing investigation  
+## Incident Response
+- Phishing investigations
+- Malware triage
+- Host-based forensics
+- Full IR report templates
 
+## Detection Engineering
+- Sigma rule development
+- Splunk and Elastic detections
+- MITRE ATT&CK mapping
 
----
-
-### **4. 📚 Study Notes**
-Notes from Google Cybersecurity and Security+:
-- Security fundamentals  
-- Networking basics  
-- Threats & vulnerabilities  
-- Incident response  
-- Cryptography  
-- Identity & access management  
-- Risk management  
-
-
----
-
-## 🎯 Future Projects
-These will be added as I gain more experience:
-- Home lab setup  
-- Active Directory lab  
-- SIEM dashboard  
-- Malware analysis basics  
-- Vulnerability scanning with OpenVAS/NESSUS  
+## Threat Hunting
+- Hypothesis-driven hunt missions
+- Query development
+- IOC and behavioral hunting
 
 ---
 
-## 📬 Contact
-**GitHub:** [XcyberJX]  
-**LinkedIn:** https://www.linkedin.com/in/justinwilliamsofficial
-**Email:** williamsjustin960@gmail.com
+# Tools and Technologies
+SIEM: Splunk, Wazuh, Elastic
+Network Analysis: Wireshark, tcpdump
+Forensics: Sysinternals, Event Viewer, Volatility(beginner)
+Threat Intel: VirusTotal, ANY.RUN, Shodan, AbuselPDB
+Scripting: Powershell, Python (basic automation)
 
 ---
 
-*More coming soon — this repo will grow as I grow as a cybersecurity professional.*
+# Learning Goals
+- Strengthen detection engineering fundamentals
+- Build consistent SOC analysis and reporting skills
+- Practice structured IR methodologies
+- Improve threat hunting techniques
+- Map detections to MITRE ATT&CK
+- Develop cyber defense automation scripts
+
+---
+
+# How to Navigate
+Feel free to start with the folders that interest you the most:
+- NEW to SOC? > 01-notes/
+- Want hands-on practice? > 02-labs/
+- Looking for real-world detections? > 03-projects/detection-rules/
+- Need example IR documentation? > 05-reports/incident-reports/
+
+---
+
+## Contact
+Feel free to connect or reach out:
+- LinkedIn: https://www.linkedin.com/in/justinwilliamsofficial/
+- Email: williamsjustin960gmail.com
+
+I'm always open to feedback, collaboration, and learning from others in the cybersecurity community.
+
+---
+
+## Support This Portfolio
+If you find this useful or want to follow my progress, feel free to star this repository.
+
+---
