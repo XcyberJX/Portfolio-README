@@ -1,18 +1,21 @@
-# SOC Analyst Portfolio 
-Hi! I'm an aspiring **Security Operations Center (SOC)** Analyst learning cybersecurity fundamentals, threat detection, and incident response. This repository showcases my hands-on labs, notes, projects, and learning progress.
+# Pen-tester/SOC Analyst Portfolio 
+Hello, nice to meet you! I'm an aspiring **Penestration tester/Security Operations Center (SOC) Analyst** learning cybersecurity fundamentals, threat detection, and incident response. This repository showcases my hands-on labs, notes, projects, and learning progress.
 
 ---
 
 # About Me
-I'm an aspiring SOC Analyst / Blue Team professional passionate about cybersecurity, threat detection, and digital defense.
+I'm an aspiring SOC Analyst / Penetration Tester professional passionate about cybersecurity, threat detection, and digital defense.
 This portfolio highlights the practical skills I am developing across:
 - Log analysis
 - SIEM monitoring (Splunk, Elastic, Wazuh)
+- Programming Languages
+- Pen-Testing tools (Kali Linux, Nmap, Wireshark, Burp Suite, OWASP ZAP
 - Incident response
 - Network traffic analysis
+- Vulnerability Management
 - Threat Intelligence
 - Detection engineering
-- SOC playbooks and documantation
+- SOC playbooks and documantation  
 
 ---
 
