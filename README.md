@@ -1,107 +1,52 @@
-# Pen-tester/SOC Analyst Portfolio 
-Hello, nice to meet you! I'm an aspiring **Penestration tester/Security Operations Center (SOC) Analyst** learning cybersecurity fundamentals, threat detection, and incident response. This repository showcases my hands-on labs, notes, projects, and learning progress.
+# Hello, I'm Justin Williams
+**Aspiring SOC Analyst | Junior Penetration Tester**
+Interested in Blue Team operations, threat detection, and offensive and defensive security.
 
 ---
 
-# About Me
-I'm an aspiring SOC Analyst / Penetration Tester professional passionate about cybersecurity, threat detection, and digital defense.
-This portfolio highlights the practical skills I am developing across:
+## Skills and Tools 
+### **Blue Team** 
+- SIEM: Splunk
+- Incident response playbooks
 - Log analysis
-- SIEM monitoring (Splunk, Elastic, Wazuh)
-- Programming Languages
-- Pen-Testing tools (Kali Linux, Nmap, Wireshark, Burp Suite, OWASP ZAP
-- Incident response
-- Network traffic analysis
-- Vulnerability Management
-- Threat Intelligence
-- Detection engineering
-- SOC playbooks and documantation  
+- Threat hunting (MITRE ATT&CK)
+
+### **Red Team**
+- Kali Linux
+- Burp Suite
+
+### **Other**
+- Python, Bash, Powershell
+- Wireshark, Zeek, Suricata
+- VMware, VirtualBox
 
 ---
 
-# Repository Structure  
-00-notes/          → Notes on SOC fundamentals, threat intel, forensics  
-01-labs/           → Hands-on exercises (Wireshark, logging, SIEM, IR, malware, etc.)  
-02-projects/       → Detection rules, threat hunts, case studies, scripts, etc.  
-03-playbooks/      → MITRE-mapped SOC playbooks  
-04-reports/        → Incident reports, SOC daily summaries, vulnerability reports
+## Featured Projects
 
-Each folder contains detailed documentation, examples, and real-world scenarios reflecting the skills needed for a SOC environment.
+# **WORK IN PROGRESS!!**
 
 ---
 
-# Highlights of This Portfolio
-## Log Analysis
-- Investigation of failed logins, Powershell abuse, persistence attempts
-- Windows Event Logs and Sysmon analysis
-- Linux and network log review
-
-## Network Traffic Analysis
-- Wireshark PCAP investigations
-- DNS tunneling detection
-- Malicious HTTP traffic reveiew
-
-## SIEM Work
-- Splunk queries, dashboards, correlation, rules
-- Wazuh alert analysis
-- Elastic detection rules
-
-## Incident Response
-- Phishing investigations
-- Malware triage
-- Host-based forensics
-- Full IR report templates
-
-## Detection Engineering
-- Sigma rule development
-- Splunk and Elastic detections
-- MITRE ATT&CK mapping
-
-## Threat Hunting
-- Hypothesis-driven hunt missions
-- Query development
-- IOC and behavioral hunting
-
----
-
-# Tools and Technologies
-SIEM: Splunk, Wazuh, Elastic
-Network Analysis: Wireshark, tcpdump
-Forensics: Sysinternals, Event Viewer, Volatility(beginner)
-Threat Intel: VirusTotal, ANY.RUN, Shodan, AbuselPDB
-Scripting: Powershell, Python (basic automation)
-
----
-
-# Learning Goals
-- Strengthen detection engineering fundamentals
-- Build consistent SOC analysis and reporting skills
-- Practice structured IR methodologies
-- Improve threat hunting techniques
-- Map detections to MITRE ATT&CK
-- Develop cyber defense automation scripts
-
----
-
-# How to Navigate
-Feel free to start with the folders that interest you the most:
-- NEW to SOC? > 01-notes/
-- Want hands-on practice? > 02-labs/
-- Looking for real-world detections? > 03-projects/detection-rules/
-- Need example IR documentation? > 05-reports/incident-reports/
+## Certifications
+#### **In progress** = Currently working on.
+#### **Complete** = Certification obtained. 
+#### **Next** = The next certification planned. 
+#### **If left blank** = Not yet obtained.
+- Google Cybersecurity Professional Certificate (**In progress**)
+- CompTIA Security+ (**Next**)
+- CompTIA Network+
+- CompTIA PenTest+
+- CompTIA CySA+
+- CompTIA Cisco Networking Pro
+- TryHackMe: SOC Level 1
+- AWS Cloud Practitioner
+- Blue Team Level 1 Certification
+- TCM security PJPT
 
 ---
 
 ## Contact
-Feel free to connect or reach out:
+- Email: williamsjustin960@gmail.com
 - LinkedIn: https://www.linkedin.com/in/justinwilliamsofficial/
-- Email: williamsjustin960gmail.com
-
-I'm always open to feedback, collaboration, and learning from others in the cybersecurity community.
-
----
-
-## Support This Portfolio
-If you find this useful or want to follow my progress, feel free to star this repository.
-
----
+  
