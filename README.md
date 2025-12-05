@@ -19,15 +19,14 @@ This portfolio highlights the practical skills I am developing across:
 
 ---
 
-# Repository Structure
-00-resources/      → Cheat sheets, learning roadmap, tool references  
-01-notes/          → Notes on SOC fundamentals, threat intel, forensics  
-02-labs/           → Hands-on exercises (Wireshark, logging, SIEM, IR, malware)  
-03-projects/       → Detection rules, threat hunts, case studies, scripts  
-04-playbooks/      → MITRE-mapped SOC playbooks  
-05-reports/        → Incident reports, SOC daily summaries, vulnerability reports
+# Repository Structure  
+00-notes/          → Notes on SOC fundamentals, threat intel, forensics  
+01-labs/           → Hands-on exercises (Wireshark, logging, SIEM, IR, malware, etc.)  
+02-projects/       → Detection rules, threat hunts, case studies, scripts, etc.  
+03-playbooks/      → MITRE-mapped SOC playbooks  
+04-reports/        → Incident reports, SOC daily summaries, vulnerability reports
 
-Each folder contains detailed documentation, examples, and real-world scenarios reflecting the skills needed for a modem SOC environment.
+Each folder contains detailed documentation, examples, and real-world scenarios reflecting the skills needed for a SOC environment.
 
 ---
 
