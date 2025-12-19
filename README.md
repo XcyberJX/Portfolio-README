@@ -1,6 +1,6 @@
 # Hello, I'm Justin Williams
 **Aspiring SOC Analyst | Junior Penetration Tester**
-#### Interested in Blue Team operations, threat detection, and offensive and defensive security.
+#### Interested in Blue Team/Red Team operations, threat detection, and offensive and defensive security.
 
 ---
 
@@ -34,15 +34,17 @@
 #### **Next** = The next certification planned. 
 #### **If left blank** = Not yet obtained.
 - Google Cybersecurity Professional Certificate (**In progress**)
-- CompTIA Security+ (**Next**)
-- CompTIA Network+
-- CompTIA PenTest+
-- CompTIA CySA+
-- CompTIA Cisco Networking Pro
-- TryHackMe: SOC Level 1
+- CompTIA Network+ (**Next**)
+- CompTIA Linux+
+- CompTIA Security+
 - AWS Cloud Practitioner
-- Blue Team Level 1 Certification
-- TCM security PJPT
+- Cisco Network Professional (CCNP)
+- Blue Team Level 1
+- CompTIA CySA+
+- Practical Junior Penestration Tester (PJPT)
+- CompTIA PenTest+
+- CompTIA Ethical Hacker Pro
+- 
 
 ---
 
